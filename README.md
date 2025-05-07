@@ -16,6 +16,10 @@ disabled: false
 });
 ```
 
+## Video
+You can watch a video (if you like) showing this bug:
+https://www.ekert.de/bryntum.mov
+
 ## 1. clone this repo
 git clone https://github.com/ekert-it/bryntumissue.git
 
@@ -33,8 +37,6 @@ npm run dev
 Navigate to http://localhost:5173/
 
 ## 5. Reproduce the Bug
-You can watch a video showing this bug:
-https://www.ekert.de/bryntum.mov
 
 ### 5.1 Filter
 * The demo provides a Searchkey input field which allows to filter the content.
